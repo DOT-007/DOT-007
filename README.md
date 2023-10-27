@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mask-sir&label=Visitors%20count&color=10d9c3&style=plastic" alt="mask-sir" /> </p>
 
-### 😻learning coding
+### BSC cyber Forensic kid :)
 
 <img align="center" alt="Coding" width="500" src="https://media2.giphy.com/media/qFw6AsQptpuzQ33Fjd/giphy.gif?cid=6c09b952d65a849d347feeab83b62850459c4e66cf9f4569&rid=giphy.gif&ct=g">
 
-</br
+</br>
 
 </details>
 
